@@ -1,4 +1,4 @@
-Day 1 -
+# Day 1 
 Task 1 :
 
 1. Anaconda Software downloading & installing.
@@ -10,7 +10,7 @@ Task 1 :
 
    Mutable data types - 1) Set. 2) List. 3)  Dictionary.
 
-Day 2 -
+# Day 2 
 Task 2 : 
 
 1. If conditions. 
@@ -19,7 +19,7 @@ Task 2 :
 4. For loop.
 5. While loop.
 
-Day 3 -
+# Day 3 
 Task 3 :
 
 Control Statement : 
@@ -31,12 +31,12 @@ Statistical user define functions.
 
 Logical user define functions.
 
-Day 4 -
+# Day 4 
 Task 4 :
 
 Creating Numpy Tutorial & Numpy Random
 
-Day 5 - 
+# Day 5 
 Task 5 : 
 
 Series - Creation & Operation.
@@ -56,12 +56,12 @@ Selection -
 
 Missing values - Missing value Checkimg ,drop by row ,drop by column & fill(mean,median).
 
-Day 6 -
+# Day 6 
 Task 6 :
 
 Data Visualisation : Scatter plot, Bar plot, Join bar plot,Pie chart,Line plot,Histogram,subplots in matplotlib & seaborn Library.
 
-Day 7 -
+# Day 7 
 Task 7 :
 
 Solving Exercise
@@ -69,7 +69,7 @@ Solving Exercise
 2) Ecommerce Purchases.
 3) SF Salaries.
 
-Day 8 - 
+# Day 8 
 Task 8 :
 
 Case Study 1
