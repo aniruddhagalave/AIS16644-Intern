@@ -13,6 +13,7 @@ Task 1 :
 # Day 2 
 Task 2 : 
 
+     Explaination & Examples of  
 1. If conditions. 
 2. If else conditions.
 3. If elif conditions.
@@ -21,6 +22,8 @@ Task 2 :
 
 # Day 3 
 Task 3 :
+
+Explaination & Examples of 
 
 Control Statement : 
 1) Break Statement.
@@ -74,8 +77,5 @@ Task 8 :
 
 Case Study 1
 
-Download titanic data
 
-1) Read data and import necessary libraries.
-2) 
 
