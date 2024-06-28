@@ -77,5 +77,19 @@ Task 8 :
 
 Case Study 1
 
+1) Read data & import necessary libraries.
+2) Data preprocessing.
+3) Visualisation.
+4) Model building.
+5) Model evaluation.
+6) comparison.
+
+Task 9 :
+
+Power Bi Dashboard: create Dashboard using water quality prediction data.
+
+Task 10 : 
+
+Project : Water Quality Prediction.
 
 
